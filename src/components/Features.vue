@@ -1,5 +1,5 @@
 <script setup>
-const clientLogo ='./src/assets/templatecss/images/client-logos.png';
+const clientLogo ='/images/client-logos.png';
 const heading ='HIGHLIGHTS';
 const subtitle='Features We Love';
 

@@ -1,6 +1,6 @@
 <script setup>
-const appLogo ='./src/assets/templatecss/images/logo.png';
-const headerImage='./src/assets/templatecss/images/iphonex.png';
+const appLogo ='/images/logo.png';
+const headerImage='/images/iphonex.png';
 const heading ='Mobile App';
 const subheading='The one and only solution for any kind of mobile app  needs.';
 </script>

@@ -1,5 +1,5 @@
 <script setup>
-const launchImage ='./src/assets/templatecss/images/dualphone.png';
+const launchImage ='/images/dualphone.png';
 const heading ='Launch your App';
 const subheading='Lorem ipsum dolor sit amet consectetur';
 
@@ -23,7 +23,7 @@ const functionalities= [
 
 
 ]
-const functionImage='./src/assets/templatecss/images/iphonex.png';
+const functionImage='/images/iphonex.png';
 </script>
 <template>
 <div class="section">

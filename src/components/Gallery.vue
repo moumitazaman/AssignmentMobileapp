@@ -3,25 +3,25 @@ const heading ='App Screenshots';
 const subheading='GALLERY';
 const images= [
     {
-        src:'./src/assets/templatecss/images/screen1.jpg',
+        src:'/images/screen1.jpg',
         title:'Lorem ipsum dolor sit amet',
         alt:'Lorem ipsum dolor',
 
     },
     {
-        src:'./src/assets/templatecss/images/screen2.jpg',
+        src:'/images/screen2.jpg',
         title:'Lorem ipsum dolor sit amet',
         alt:'Lorem ipsum dolor',
 
     },
     {
-        src:'./src/assets/templatecss/images/screen3.jpg',
+        src:'/images/screen3.jpg',
         title:'Lorem ipsum dolor sit amet',
         alt:'Lorem ipsum dolor',
 
     },
     {
-        src:'./src/assets/templatecss/images/screen1.jpg',
+        src:'/images/screen1.jpg',
         title:'Lorem ipsum dolor sit amet',
         alt:'Lorem ipsum dolor',
 

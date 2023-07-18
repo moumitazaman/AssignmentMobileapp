@@ -4,13 +4,13 @@ const heading ='Download Anywhere';
 const subheading='Available for all major mobile and desktop platforms. Rapidiously visualize optimal ROI rather than enterprise-wide methods of empowerment';
 const images= [
     {
-        src:'./src/assets/templatecss/images/appleicon.png',
+        src:'/images/appleicon.png',
         title:'AppStore',
         alt:'icon',
 
     },
     {
-        src:'./src/assets/templatecss/images/playicon.png',
+        src:'/images/playicon.png',
         title:'Google Play',
         alt:'icon',
 

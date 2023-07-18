@@ -5,27 +5,27 @@ const datas=[
     {   title:'Communicate with ease',
         subtitle:'Uniquely underwhelm premium outsourcing with proactive leadership skills.',
         description:'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer rutrum, urna eu pellentesque pretium, nisi nisi fermentum enim, et sagittis dolor nulla vel sapien. Vestibulum sit amet mattis ante. Ut placerat dui eu nulla congue tincidunt ac a nibh. Mauris accumsan pulvinar lorem placerat volutpat. Praesent quis facilisis elit. Sed condimentum neque quis ex porttitor,',
-        src:'./src/assets/templatecss/images/graphic.png'
+        src:'/images/graphic.png'
     },
     {
         title:'Scheduling when you want',
         subtitle:'Uniquely underwhelm premium outsourcing with proactive leadership skills.',
         description:'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer rutrum, urna eu pellentesque pretium, nisi nisi fermentum enim, et sagittis dolor nulla vel sapien. Vestibulum sit amet mattis ante. Ut placerat dui eu nulla congue tincidunt ac a nibh. Mauris accumsan pulvinar lorem placerat volutpat. Praesent quis facilisis elit. Sed condimentum neque quis ex porttitor,',
-        src:'./src/assets/templatecss/images/graphic.png'
+        src:'/images/graphic.png'
 
     },
     {
         title:'Realtime Messaging service',
         subtitle:'Uniquely underwhelm premium outsourcing with proactive leadership skills.',
         description:'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer rutrum, urna eu pellentesque pretium, nisi nisi fermentum enim, et sagittis dolor nulla vel sapien. Vestibulum sit amet mattis ante. Ut placerat dui eu nulla congue tincidunt ac a nibh. Mauris accumsan pulvinar lorem placerat volutpat. Praesent quis facilisis elit. Sed condimentum neque quis ex porttitor,',
-        src:'./src/assets/templatecss/images/graphic.png'
+        src:'/images/graphic.png'
 
     },
     {
         title:'Live chat when you needed',
         subtitle:'Uniquely underwhelm premium outsourcing with proactive leadership skills.',
         description:'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer rutrum, urna eu pellentesque pretium, nisi nisi fermentum enim, et sagittis dolor nulla vel sapien. Vestibulum sit amet mattis ante. Ut placerat dui eu nulla congue tincidunt ac a nibh. Mauris accumsan pulvinar lorem placerat volutpat. Praesent quis facilisis elit. Sed condimentum neque quis ex porttitor,',
-        src:'./src/assets/templatecss/images/graphic.png'
+        src:'/images/graphic.png'
 
     },
 ]

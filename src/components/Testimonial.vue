@@ -7,21 +7,21 @@ const datas=[
         clientName:'Crystal Gordon',
         location:'United States',
         comment:'Uniquely streamline highly efficient scenarios and 24/7 initiatives. Conveniently embrace multifunctional ideas through proactive customer service. Distinctively conceptualize 2.0 intellectual capital via user-centric partnerships',
-        src:'./src/assets/templatecss/images/client.png'
+        src:'/images/client.png'
 
     },
     {
         clientName:'Emily Richards',
         location:'United States',
         comment:'Uniquely streamline highly efficient scenarios and 24/7 initiatives. Conveniently embrace multifunctional ideas through proactive customer service. Distinctively conceptualize 2.0 intellectual capital via user-centric partnerships',
-        src:'./src/assets/templatecss/images/client.png'
+        src:'/images/client.png'
 
     },
     {
         clientName:'Jane Doe',
         location:'United States',
         comment:'Uniquely streamline highly efficient scenarios and 24/7 initiatives. Conveniently embrace multifunctional ideas through proactive customer service. Distinctively conceptualize 2.0 intellectual capital via user-centric partnerships',
-        src:'./src/assets/templatecss/images/client.png'
+        src:'/images/client.png'
 
     },
 ]
